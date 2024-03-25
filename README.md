@@ -1,4 +1,4 @@
-## Installation:
+## Installation
 
 Choose the installer for your OS [here](https://github.com/tytremblay/frc-video-splitter-3/releases).
 
